@@ -4,3 +4,4 @@
 **Add** - track your file and changes in Git
 **Commit** - Save your files in Git
 **Push** - Upload files to Github
+**Pull** - When changes in Github and want to bring to local machine
