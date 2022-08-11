@@ -1,4 +1,4 @@
-# GIT OVERVIEW
+# **GIT OVERVIEW**
 
 **Clone** - bring repository that is hosted somewhere like Github into a folder on your local machine
 **Add** - track your file and changes in Git
